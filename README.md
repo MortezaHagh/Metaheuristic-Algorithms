@@ -2,11 +2,11 @@
 
 Genetic algorithm, Particle Swarm Optimization algorithm and Imperialistic Competitive algorithms.
 
-in binary, real, and permutation spaces.
+In binary, real, and permutation spaces.
 
-with different operators.
+With different operators.
 
-for some benchmark problems and examples.
+For some benchmark problems and examples.
 
 #MATLAB
 #GA #PSO #ICA
